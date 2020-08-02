@@ -7,7 +7,7 @@
 </head>
 <body>
 	<div class="booth">
-		
+		<video id="video" width="400" height="300" autoplay></video>
 	</div>
 </body>
-</html>html
+</html>
