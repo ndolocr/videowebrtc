@@ -9,5 +9,7 @@
 	<div class="booth">
 		<video id="video" width="400" height="300" autoplay></video>
 	</div>
+
+	<script src="js/video.js"></script>
 </body>
 </html>
